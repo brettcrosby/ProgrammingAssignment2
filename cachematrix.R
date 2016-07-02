@@ -97,3 +97,4 @@ mat1 <- matrix(rnorm(100), nrow=10, ncol=10)
 ##
 testMatrix <- makeCacheMatrix(mat1)
 cacheSolve(testMatrix)
+
