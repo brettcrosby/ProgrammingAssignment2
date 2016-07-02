@@ -16,7 +16,7 @@
 ##   - getmatrix()
 ## are made available through the variable.
 ## For example - 
-## x <- makeCachematrix(m)   (where 'm' is a matrix) would see x as a
+## x <- makeCachematrix(m) (where 'm' is a matrix) would see x as a
 ## "freestanding object" (my words) that a) holds the matrix data and
 ## b) possesses the 4 sub-functions.
 
